@@ -4,7 +4,7 @@ Este notebook analiza los tipos de entrenamiento, distribución por género, eda
 
 Podés ejecutar el notebook directamente en Colab haciendo clic en este botón:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinsena6/analisis-gimnasio/blob/main/PrimerTrabajoAnalisisDatos.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinsena6/gimnasio-analisis/blob/main/PrimerTrabajoAnalisisDatos.ipynb)
 
 
 ## 📊 Contenido del análisis
